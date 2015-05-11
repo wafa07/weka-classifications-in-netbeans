@@ -1,0 +1,1 @@
+This project is developed under NetBeans 6.9.1 using weka 3.6 API and JFreeCharts API the purpose of this project was to see the effect of boosting classifer on other classifications, moreover to learn how to use weka with netbeans and implement classification techniques.
